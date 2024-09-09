@@ -1,0 +1,6 @@
+@ApiSenatiSecuela_HostAddress = http://localhost:5195
+
+GET {{ApiSenatiSecuela_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
